@@ -1,0 +1,29 @@
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\bin\Debug\tastify 4.exe.config
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\bin\Debug\tastify 4.exe
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\bin\Debug\tastify 4.pdb
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify 4.csproj.AssemblyReference.cache
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify_4.Properties.Resources.resources
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify 4.csproj.GenerateResource.cache
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify 4.csproj.CoreCompileInputs.cache
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify 4.exe
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify 4.pdb
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify_4.MainMenu.resources
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify_4.Frukost.resources
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify_4.Kylskåp.resources
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify_4.Lunch.resources
+C:\Users\gabbe\source\repos\tastify 4\tastify 4\obj\Debug\tastify_4.Middag.resources
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\bin\Debug\tastify 4.exe.config
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\bin\Debug\tastify 4.exe
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\bin\Debug\tastify 4.pdb
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify 4.csproj.AssemblyReference.cache
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify_4.Frukost.resources
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify_4.Kylskåp.resources
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify_4.Lunch.resources
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify_4.MainMenu.resources
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify_4.Middag.resources
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify_4.Properties.Resources.resources
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify 4.csproj.GenerateResource.cache
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify 4.csproj.CoreCompileInputs.cache
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify 4.exe
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify 4.pdb
+C:\Users\gabbe\OneDrive\Skrivbord\Tastify\tastify 4\obj\Debug\tastify 4.csproj.SuggestedBindingRedirects.cache
